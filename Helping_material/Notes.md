@@ -23,7 +23,7 @@ Therfore the main IP is **101.75.8.0/23**
 | NET4       | Datacenter  | 15              |
 
 ---
-### 📊 Subnetting Plan Table
+### 📊 Subnetting Plan Table ( Task 1 )
 
 | Network      | Subnetwork | Network IP     | CIDR | Broadcast IP   | First Host IP    | Last Host IP     |
 |--------------|------------|----------------|------|----------------|------------------|------------------|
@@ -35,3 +35,7 @@ Therfore the main IP is **101.75.8.0/23**
 | Core         | NET0-A     | 101.75.8.224   | /30  | 101.75.8.226   | 101.75.8.225     | 101.75.8.226     |
 | Core         | NET0-B     | 101.75.8.228   | /30  | 101.75.8.231   | 101.75.8.229     | 101.75.8.230     |
 | Core         | NET0-C     | 101.75.8.232   | /30  | 101.75.8.235   | 101.75.8.233     | 101.75.8.234     |
+---
+### Network Topology
+
+![Network Topology](Network_Topology.png)
