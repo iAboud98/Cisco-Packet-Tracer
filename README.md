@@ -2,7 +2,7 @@
 
 ## 📸 Project Topology
 
-![Network Topology](Helping_material/Network_Topology.png)
+![Network Topology](Helping_material/ourNetwork_Topology.png)
 
 
 ---
@@ -83,5 +83,5 @@ This project simulates a multi-area IP network in Cisco Packet Tracer involving 
 
 ## 🛠️ Tools Used
 
-- **Cisco Packet Tracer (v8.x)**
+- **Cisco Packet Tracer (v8.2.2)**
 
